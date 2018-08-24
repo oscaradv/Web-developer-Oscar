@@ -1,5 +1,5 @@
 #banner {
-	background-color: #888;
+	background-image: url("oscar Photo2.jpg");
 	background-size: cover;
 	background-position: bottom center;
 	height: 1000px;
@@ -7,28 +7,14 @@
 }
 
 #banner .content h2 {
-	border: 1px solid white;
+	border: 2px solid white;
 	Background-color: #D8E8ED;
-	color: black;
-	padding: 5px 5px 5px 5px;
-	position: top;
+	color: #403D33;
+	padding: 10px 5px 10px 10px;
+	position: relative;
 	top: 250px;
 	width: 300px;
 	margin-left: 55%;
-}	
-#banner .photo {
-	background-size: cover;
-	background-position: bottom center;
-	height: 1500px;
-	width: 100%;
-}
-
-	
-	
-	
-	
-
-
 }
 
 }
@@ -70,3 +56,71 @@
 	display: inline-block;
 }	
 	
+
+	background-position: bottom center;
+	height: 1000px;
+	width: 100%;
+}
+
+
+
+
+#banner .content h2 {
+	border: 1px solid white;
+	Background-color: #D8E8ED;
+	color: black;
+	padding: 5px 5px 5px 5px;
+	position: top;
+	top: 250px;
+	width: 300px;
+	margin-left: 55%;
+}	
+.myPanel {
+	border: 1px solid #384742;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 4px #ccc;
+	margin: 3%;
+	top: 100px;
+	
+}
+
+.myPanel .heading {
+	background: #90D6BC;
+	border: 1px solid #384742;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	color: #384742;
+	padding: 10px 20px;
+	text-align: center;
+}
+	
+.myPanel .body {
+	padding: 10px 20px;
+	text-align: center;
+}
+
+.myPanel .showOnHover {
+	display: none;
+}
+
+.myPanel:hover {
+	box-shadow: 0px 0px 8px black;
+	border: 2px solid black;
+}	
+.myPanel:hover .showOnHover {
+	display: inline-block;
+}	
+	
+
+
+
+	
+	
+	
+	
+
+
+
+
