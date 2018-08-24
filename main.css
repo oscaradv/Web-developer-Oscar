@@ -1,5 +1,5 @@
 #banner {
-	background-image: url("https://lh3.googleusercontent.com/rgLGOqiTPiyzuqWRaX7m5PlYksWubsFm6jN0KQ46RFehuVsYMO2jUQ9pdC-iZ1CaA9olTkrA0sqql_3N-gf2FvU17rXa57RMeGWOqpIYJiKmr4dJPIZ9cDcbkx_QtcX_friw9V4CJQSjHqIrNrOBUyIl_oIf3KJnPxWqMQVaKmGfQKzLj3PxyJf7-gQ13rf_hw6p8Rx11CpshMVVUQOfxx05vgxabZaTXtthaqcLup9UHBHg-s8gzeln_vukuXFt0Obz5LxySrcR3bjB_mxjeM5XPfW_EzK04gPI5sQll8BIBukNFJIdBbsxbjaU2aZsjt4ETCH-z2I0HL4TZAHCkTb4Wzz20kFw2ERohTMRek3puwtYqycJXdDHr35f3CC9gF8avnEqBcUnAAVWbgX1dlfpDohRcQs4qzkVzBrXYFTCIHu5EaAEuFeTh7JB7kwaAttmdmAs2SKVORJ06_sGpQLZ7h0mL7E0ZZrnjaLs5BpCfCfAHi5Xt_DB9Sk9wXKp8OEZxAnxATlj5v8QqfGaLVXkSayBszdi5ah4hPRxhn0trYxq4M3jZieyKUO1p3vT-67Hlm3ADDt98ESN9lPNUG15ZyRdtuxHolL3qWFSP38h-CWchBWpFYyxq-pS9So7RCyNsSxNZYqAM9tbMVJWoPFvwlIeAmuH=w684-h911-no");
+	background-color: #888;
 	background-size: cover;
 	background-position: bottom center;
 	height: 1000px;
@@ -11,10 +11,24 @@
 	Background-color: #D8E8ED;
 	color: black;
 	padding: 5px 5px 5px 5px;
-	position: relative;
+	position: top;
 	top: 250px;
 	width: 300px;
 	margin-left: 55%;
+}	
+#banner .photo {
+	background-size: cover;
+	background-position: bottom center;
+	height: 1500px;
+	width: 100%;
+}
+
+	
+	
+	
+	
+
+
 }
 
 }
