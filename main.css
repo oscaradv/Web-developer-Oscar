@@ -7,8 +7,10 @@
 }
 
 #banner .content h2 {
-	border: 2px solid white;
+	border: 2px brown;
 	Background-color: #D8E8ED;
+	box-shadow: 5px 10px 10px 5px;
+	border-radius: 5px;
 	color: #403D33;
 	padding: 10px 5px 10px 10px;
 	position: relative;
@@ -17,7 +19,15 @@
 	margin-left: 55%;
 }
 
+h1, h3 {
+	text-align: center;
+	
 }
+
+p {
+	text-align: center;
+}
+
 .myPanel {
 	border: 1px solid #384742;
 	border-radius: 5px 5px 0 0;
